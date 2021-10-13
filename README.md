@@ -4,11 +4,11 @@ Data and code for the paper "Competitive dominance and broad environmental toler
 
 Carlos A. Gracida Juarez, Christos C. Ioannou and Martin J. Genner.
 
-Code/ - R scripts to run analyses.
+scripts - includes R script to run analyses.
 
 Rcode_Behaviour.R - all data analyses and visualisation.
 
-Data/ - Data used in the analyses
+assets - includes data used in the analyses
 
 Behaviour_Data.txt - Behavioural response data analysed in study, including each species in each of the 64 trials.
   
